@@ -1,4 +1,4 @@
-# Fontes de Animes e Mangás �📚
+# Fontes de Animes e Mangás 📚
 
 Bem-vindo ao repositório **Fontes de Animes e Mangás**! Este projeto tem como objetivo centralizar todas as fontes disponíveis de animes, mangás, manhwas e manhuas no Brasil. Aqui você encontrará links, descrições e informações sobre os melhores sites para acompanhar suas obras favoritas.
 

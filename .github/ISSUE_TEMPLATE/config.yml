@@ -1,8 +1,5 @@
 blank_issues_enabled: false # Impede que os usuários criem issues sem usar um template
 contact_links:
-  - name: 🆕 Adicionar Novo Site
-    url: https://github.com/deividgabrielpeira/fontes-de-anime-e-mangas/issues/new?assignees=&labels=Novo+Site&template=adicionar-novo-site.yml&title=%F0%9F%86%95+Sugerir+Novo+Site
-    about: Sugerir a adição de um novo site de anime/mangá/manhua ao catálogo.
-  - name: 🐛 Reportar Bug
-    url: https://github.com/deividgabrielpeira/fontes-de-anime-e-mangas/issues/new?assignees=&labels=Bug&template=reportar-bug.yml&title=%F0%9F%90%9B+[Bug]+Descrição+curta+do+problema
-    about: Reportar um problema ou bug no repositório.
+  - name: ⚠️ Aplicação de Issues
+    url: https://github.com/deividgabrielpeira/fontes-de-anime-e-mangas/issues/new/choose
+    about: Problemas e solicitações

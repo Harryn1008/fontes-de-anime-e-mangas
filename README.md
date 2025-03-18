@@ -123,10 +123,19 @@ Aqui está um exemplo de como categorizar ainda mais o conteúdo:
   - Sites para ler mangás online.
 - **Apps**:
   - **PC**:
-    - Exemplo de app para PC.
+    - [Houdoku](https://github.com/xgi/houdoku): Aplicativo de leitura de mangás para Windows, macOS e Linux, com suporte a extensões.
+    - [OpenComic](https://github.com/ollm/OpenComic): Leitor de quadrinhos e mangás para Windows, macOS e Linux, com suporte a formatos CBZ, CBR, PDF e mais.
+    - [YACReader](https://www.yacreader.com/): Leitor de quadrinhos e mangás para Windows, macOS e Linux, com gerenciamento de bibliotecas.
+    - [CDisplayEx](https://www.cdisplayex.com/): Leitor de quadrinhos e mangás para Windows, com suporte a formatos CBZ, CBR, PDF e mais.
   - **Mobile**:
     - [Kotatsu](https://github.com/KotatsuApp/Kotatsu): Aplicativo para leitura de mangás e animes, com suporte a várias fontes.
     - [Mihon](https://github.com/mihonapp/mihon): Fork do Tachiyomi, focado em leitura de mangás com extensões personalizáveis.
+    - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY): Fork do Tachiyomi com foco em melhorias de desempenho e funcionalidades adicionais.
+    - [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ): Fork do Tachiyomi com suporte a extensões alternativas e personalização avançada.
+    - [TachiyomiJ2K](https://github.com/Jays2Kings/TachiyomiJ2K): Fork do Tachiyomi com interface aprimorada e recursos extras.
+    - [Aniyomi](https://github.com/jmir1/aniyomi): Fork do Tachiyomi que combina leitura de mangás e streaming de animes em um único app.
+    - [Yokai](https://github.com/null2264/yokai): Fork do Tachiyomi com foco em privacidade e segurança, além de suporte a extensões.
+    - [Komikku](https://github.com/komikku-app/komikku): Aplicativo de leitura de mangás com interface limpa e suporte a múltiplas fontes.
 - **Listagem/Banco de Dados**:
   - Sites com listas de mangás e informações detalhadas.
 - **Fóruns**:
@@ -136,7 +145,10 @@ Aqui está um exemplo de como categorizar ainda mais o conteúdo:
 
 ### Light Novels
 - **Apps**:
-  - **Mobile**: Aplicativos para celular.
+  - **Mobile**:
+    - [Shosetsu](https://shosetsu.app/): Aplicativo para leitura de light novels, com suporte a várias fontes e personalização.
+    - [QuickNovel](https://github.com/LagradOst/QuickNovel): Aplicativo para leitura de light novels e web novels, com suporte a extensões.
+    - [LNReader](https://github.com/LNReader/lnreader): Aplicativo open source para leitura de light novels, com suporte a múltiplas fontes e atualizações automáticas.
 
 ---
 

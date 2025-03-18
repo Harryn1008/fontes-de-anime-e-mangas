@@ -32,6 +32,7 @@ Este repositório foi criado para facilitar o acesso a fontes confiáveis e atua
 - **Centralizar informações**: Reunir todos os sites em um único lugar.
 - **Facilitar a busca**: Organizar os sites por categorias.
 - **Manter a comunidade informada**: Atualizar constantemente com novas fontes e remover links quebrados.
+- **O Projeto Apenas e Relacionado ao idioma Brasileiro, tanto Dublado e Legendado**
 
 ---
 

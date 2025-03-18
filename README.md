@@ -10,6 +10,8 @@ Bem-vindo ao repositório **Fontes de Animes e Mangás**! Este projeto tem como 
 - [🚀 Como Usar](#-como-usar)
 - [📂 Categorias](#-categorias)
   - [Animes](#animes)
+  - [Donghua](#donghua)
+  - [Doramas](#doramas)
   - [Mangás](#mangás)
   - [Manhwas e Manhuas](#manhwas-e-manhuas)
 - [🤝 Como Contribuir](#-como-contribuir)
@@ -37,6 +39,8 @@ Este repositório foi criado para facilitar o acesso a fontes confiáveis e atua
 
 1. **Navegue pelas categorias**:
    - [Animes](#animes)
+   - [Donghua](#donghua)
+   - [Doramas](#doramas)
    - [Mangás](#mangás)
    - [Manhwas](#manhwas)
    - [Manhuas](#manhuas)
@@ -55,7 +59,39 @@ Lista de sites para assistir animes online ou baixar episódios.
 | Nome do Site       | Idioma | Descrição                                      | Link |
 |--------------------|--------|------------------------------------------------|------|
 | Crunchyroll        | PT-BR  | Plataforma oficial com animes legendados e dublados. | [Acessar](https://www.crunchyroll.com) |
-| Animes Online      | PT-BR  | Site com animes gratuitos e legendados.        | [Acessar](https://animesonline.cc) |
+| Animes Online      | PT-BR  | Site com animes gratuitos e legendados.        | [Acessar](https://animesonlinecc.to) |
+| AnimeFire      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animefire.plus) |
+| Animes Vision	      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animesvision.to) |
+| Animes BR	      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animesbr.tv) |
+| Animes Digital	      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animesdigital.org) |
+| Anime Q	      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animeq.blog) |
+| Anime Games	      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animesgames.cc) |
+| AnimeRoll	      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://www.anroll.net) |
+| Anitube	      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://www.anitube.vip) |
+| AnimePlayer	      | PT-BR  | Site com animes legendados e dublados e +18.        | [Acessar](https://animeplayer.com.br) |
+| AnimesDrive	      | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animesdrive.blog) |
+| AnimesOnline(Cloud) | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animesonline.cloud) |
+| AnimesOnline(Red) | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://animesonline.red) |
+| Animes Otaku | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://www.animesotaku.cc) |
+| BetterAnime | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://betteranime.net) |
+| DarkAnimes | PT-BR  | Baixar Animes Via Torrent.        | [Acessar](https://betteranime.net) |
+| Goyabu | PT-BR  | Site com animes legendados e dublados e +18.        | [Acessar](https://goyabu.to/home) |
+| QN1.NET | PT-BR  | Site com animes legendados e dublados.        | [Acessar](https://q1n.net) |
+
+### Donghua
+Lista de sites para assistir Donghua online ou baixar episódio
+
+| Nome do Site       | Idioma | Descrição                                      | Link |
+|--------------------|--------|------------------------------------------------|------|
+| Anidong        | PT-BR  | Plataforma com animes (Donghua) Legendado. | [Acessar](https://anidong.net) |
+| Donghua no Sekai | PT-BR  | Plataforma com animes (Donghua) Legendado. | [Acessar](https://donghuanosekai.com) |
+
+### Doramas
+Lista de Sites para assistir Doramas (Em breve)
+
+| Nome do Site       | Idioma | Descrição                                      | Link |
+|--------------------|--------|------------------------------------------------|------|
+| Animes CX        | PT-BR  | Plataforma de Doramas Legendados. | [Acessar](https://animescx.com.br) |
 
 ### Mangás
 Lista de sites para ler mangás online.
@@ -125,6 +161,7 @@ Encontrou um link quebrado ou um site que não está funcionando? [Crie uma Issu
 - **Notícias sobre Mangás**:
   - Sites de notícias e atualizações.
     - [Crunchyroll News](https://www.crunchyroll.com/pt-br/news): Seção de notícias da Crunchyroll sobre mangás e animes.
+    - [Anime Zone](https://animezone.com.br): Portal de Noticia
 
 
 ### Light Novels

@@ -96,31 +96,7 @@ Encontrou um link quebrado ou um site que não está funcionando? [Crie uma Issu
 
 ## 📜 Estrutura Detalhada
 
-Aqui está um exemplo de como categorizar ainda mais o conteúdo:
-
-### Anime
-- **Streaming**:
-  - Sites para assistir animes online.
-- **Download**:
-  - **DDL**: Download direto.
-  - **Torrents**:
-    - **Trackers Públicos**: Sites de torrent públicos.
-    - **Trackers Privados**: Sites de torrent privados.
-- **Listagem/Banco de Dados**:
-  - Sites com listas de animes e informações detalhadas.
-- **Agendas/Chart**:
-  - Calendários de lançamentos e rankings.
-- **Fóruns**:
-  - Comunidades para discussão de animes.
-- **Apps**:
-  - **PC**: Aplicativos para computador.
-  - **Mobile**: Aplicativos para celular.
-- **Notícias sobre Animes**:
-  - Sites de notícias e atualizações.
-
 ### Mangá
-- **Leitura Online**:
-  - Sites para ler mangás online.
 - **Apps**:
   - **PC**:
     - [Houdoku](https://github.com/xgi/houdoku): Aplicativo de leitura de mangás para Windows, macOS e Linux, com suporte a extensões.
@@ -128,20 +104,28 @@ Aqui está um exemplo de como categorizar ainda mais o conteúdo:
     - [YACReader](https://www.yacreader.com/): Leitor de quadrinhos e mangás para Windows, macOS e Linux, com gerenciamento de bibliotecas.
     - [CDisplayEx](https://www.cdisplayex.com/): Leitor de quadrinhos e mangás para Windows, com suporte a formatos CBZ, CBR, PDF e mais.
   - **Mobile**:
-    - [Kotatsu](https://github.com/KotatsuApp/Kotatsu): Aplicativo para leitura de mangás e animes, com suporte a várias fontes.
-    - [Mihon](https://github.com/mihonapp/mihon): Fork do Tachiyomi, focado em leitura de mangás com extensões personalizáveis.
-    - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY): Fork do Tachiyomi com foco em melhorias de desempenho e funcionalidades adicionais.
-    - [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ): Fork do Tachiyomi com suporte a extensões alternativas e personalização avançada.
-    - [TachiyomiJ2K](https://github.com/Jays2Kings/TachiyomiJ2K): Fork do Tachiyomi com interface aprimorada e recursos extras.
-    - [Aniyomi](https://github.com/jmir1/aniyomi): Fork do Tachiyomi que combina leitura de mangás e streaming de animes em um único app.
-    - [Yokai](https://github.com/null2264/yokai): Fork do Tachiyomi com foco em privacidade e segurança, além de suporte a extensões.
-    - [Komikku](https://github.com/komikku-app/komikku): Aplicativo de leitura de mangás com interface limpa e suporte a múltiplas fontes.
+    - Aplicativos pra ler mangas online
+      - [Kotatsu](https://github.com/KotatsuApp/Kotatsu): Aplicativo para leitura de mangás e animes, com suporte a várias fontes.
+      - [Mihon](https://github.com/mihonapp/mihon): Fork do Tachiyomi, focado em leitura de mangás com extensões personalizáveis.
+      - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY): Fork do Tachiyomi com foco em melhorias de desempenho e funcionalidades adicionais.
+      - [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ): Fork do Tachiyomi com suporte a extensões alternativas e personalização avançada.
+      - [TachiyomiJ2K](https://github.com/Jays2Kings/TachiyomiJ2K): Fork do Tachiyomi com interface aprimorada e recursos extras.
+      - [Aniyomi](https://github.com/jmir1/aniyomi): Fork do Tachiyomi que combina leitura de mangás e streaming de animes em um único app.
+      - [Yokai](https://github.com/null2264/yokai): Fork do Tachiyomi com foco em privacidade e segurança, além de suporte a extensões.
+      - [Komikku](https://github.com/komikku-app/komikku): Aplicativo de leitura de mangás com interface limpa e suporte a múltiplas fontes.
 - **Listagem/Banco de Dados**:
   - Sites com listas de mangás e informações detalhadas.
+    - [MyAnimeList (MAL)](https://myanimelist.net): Base de dados de animes e mangás com listas e classificações.
+    - [Anilist](https://anilist.co): Alternativa ao MAL com interface moderna e recursos avançados.
+    - [Kitsu](https://kitsu.app): Plataforma social para listagem e acompanhamento de mangás e animes.
+    - [MangaUpdates](https://www.mangaupdates.com): Banco de dados focado em mangás com informações detalhadas.
 - **Fóruns**:
   - Comunidades para discussão de mangás.
+    - Em breve, adicionado
 - **Notícias sobre Mangás**:
   - Sites de notícias e atualizações.
+    - [Crunchyroll News](https://www.crunchyroll.com/pt-br/news): Seção de notícias da Crunchyroll sobre mangás e animes.
+
 
 ### Light Novels
 - **Apps**:

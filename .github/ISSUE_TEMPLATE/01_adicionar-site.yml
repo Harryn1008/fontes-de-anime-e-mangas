@@ -1,11 +1,11 @@
-name: 🆕 Adicionar Novo Site
+name: "🆕 Adicionar Novo Site"
 description: Sugerir a adição de um novo site de anime/mangá/manhua ao catálogo
 labels: [NovoSite]
 body:
   - type: input
     id: site-name
     attributes:
-      name: Nome do Site
+      label: Nome do Site
       description: Nome do site que você deseja adicionar.
       placeholder: Exemplo: "SlimeRead ou Mangalivre"
     validations:
@@ -14,7 +14,7 @@ body:
   - type: input
     id: site-url
     attributes:
-      name: URL do Site
+      label: URL do Site
       description: URL principal do site.
       placeholder: Exemplo: "https://slimeread.com"
     validations:
@@ -23,7 +23,7 @@ body:
   - type: input
     id: site-language
     attributes:
-      name: Idioma do Site
+      label: Idioma do Site
       description: Idioma principal do site.
       placeholder: Exemplo: "Português"
     validations:
@@ -32,7 +32,7 @@ body:
   - type: textarea
     id: site-description
     attributes:
-      name: Descrição do Site
+      label: Descrição do Site
       description: Breve descrição do site e do conteúdo que ele oferece.
       placeholder: Exemplo: "SlimeRead é uma plataforma que oferece uma vasta coleção de mangás no idioma Português, com suporte para leitura online e download."
     validations:
@@ -41,7 +41,7 @@ body:
   - type: textarea
     id: site-features
     attributes:
-      name: Funcionalidades do Site
+      label: Funcionalidades do Site
       description: Liste as funcionalidades principais do site.
       placeholder: |
         Exemplo:
@@ -54,14 +54,14 @@ body:
   - type: textarea
     id: site-popularity
     attributes:
-      name: Popularidade do Site
+      label: Popularidade do Site
       description: Informações sobre a popularidade do site (opcional).
       placeholder: Exemplo: "SlimeRead é um dos sites mais populares para leitura de mangás, com milhões de usuários ativos mensalmente."
 
   - type: checkboxes
     id: acknowledgements
     attributes:
-      name: Confirmações
+      label: Confirmações
       description: Por favor, confirme que você fez os seguintes passos.
       options:
         - label: Eu pesquisei no repositório e este site não foi adicionado anteriormente.

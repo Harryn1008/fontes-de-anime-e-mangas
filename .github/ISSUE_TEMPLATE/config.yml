@@ -1,5 +1,0 @@
-blank_issues_enabled: false # Impede que os usuários criem issues sem usar um template
-contact_links:
-  - name: ⚠️ Aplicação de Issues
-    url: https://github.com/deividgabrielpeira/fontes-de-anime-e-mangas/issues/new/choose
-    about: Problemas e solicitações
